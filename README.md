@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Nikita Martin
 - 👀 I’m interested in coding, programming, solving problems
 - 🌱 I’m currently learning advanced algorithms, data structures, and databases
-- 📈 The programming languages I can code in: SQL, Java, Python, C#
+- 📈 The programming languages I can code in: SQL, Java, Python, C#, C++, C
 - 💞️ I’m looking to collaborate on open-source projects, coding challenges, and innovative software solutions.
-- 📫 How to reach me martinkita04@gmail.com
+- 📫 How to reach me martinkita04@gmail.com or mrtnik003@myuct.ac.za
 - ⚡ Fun fact: I love playing chess and I try to increase my ranking day by day.
 
 <!---

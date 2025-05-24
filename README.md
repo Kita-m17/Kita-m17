@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikita Martin
+- 👋 Hi, I’m Nikita Martin - a third year Computer Science and Computer Engineering student at the University of Cape Town
 - 👀 I’m interested in coding, programming, solving problems
 - 🌱 I’m currently learning Machine Learning: Artificial Neural Networks, and Reinforcement Learning
 - 👀 I have my experience in advanced algorithms, data structures, and databases

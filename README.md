@@ -26,7 +26,7 @@
 | 🌐 Distributed Scientific Computing | HPC · Parallel Systems |
 | 🔐 Network Security | Cryptography · Protocols |
 | 🦎 Artificial Life | Emergence · Simulation |
-| 🧠 Deep Learning | Neural Networks · Transformers · RL |
+| 🧠 Deep Learning | Neural Networks (MLP/ANN/CNN/RNN)· Transformers |
 
 ---
 

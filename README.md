@@ -2,8 +2,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  NM  │  Nikita Martin — Kita-m17                     ║
-║      │  BSc Honours Computer Science @ UCT           ║
+║ # NM  │  Nikita Martin — Kita-m17                    ║
+║ #     │  BSc Honours Computer Science @ UCT          ║
 ╚══════════════════════════════════════════════════════╝
 ```
 

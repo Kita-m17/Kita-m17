@@ -3,9 +3,11 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  NM  │  Nikita Martin — Kita-m17                     ║
-║      │  CS + Computer Engineering @ UCT              ║
+║      │  BSc Honours Computer Science @ UCT           ║
 ╚══════════════════════════════════════════════════════╝
 ```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=238636&center=true&width=500&lines=Honours+CS+%40+UCT+%F0%9F%8E%93;Answer+Set+Programming+%F0%9F%A7%A9;Distributed+Scientific+Computing+%F0%9F%8C%90;Network+Security+%F0%9F%94%90;Artificial+Life+%F0%9F%A6%8E;Deep+Learning+%F0%9F%A7%A0;Chess.+Code.+Repeat.+%E2%99%9F)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -13,19 +15,19 @@
 
 ### `$ whoami`
 
-👋 Hi! I'm **Nikita Martin** — a third-year **Computer Science & Computer Engineering** student at the **University of Cape Town**, passionate about building things that think, solve, and scale.
+👋 Hi! I'm **Nikita Martin** — a **BSc Honours Computer Science** student at the **University of Cape Town**. I'm passionate about intelligent systems, secure networks, and building things that think, scale, and evolve.
 
 ---
 
-### `// currently_learning`
+### `// honours_modules`
 
-```python
-focus_areas = [
-    "Machine Learning: Artificial Neural Networks",
-    "Reinforcement Learning",
-    "Advanced Algorithms & Data Structures",
-]
-```
+| Module | Area |
+|--------|------|
+| 🧩 Answer Set Programming | Logic · Declarative AI |
+| 🌐 Distributed Scientific Computing | HPC · Parallel Systems |
+| 🔐 Network Security | Cryptography · Protocols |
+| 🦎 Artificial Life | Emergence · Simulation |
+| 🧠 Deep Learning | Neural Networks · Transformers · RL |
 
 ---
 

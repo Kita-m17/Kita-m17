@@ -12,7 +12,7 @@
 </div>
 
 ---
-
+### <span style="color:#50C878">`$
 ### `$ whoami`
 
 👋 Hi! I'm **Nikita Martin** — a **BSc Honours Computer Science** student at the **University of Cape Town**. I'm passionate about intelligent systems, secure networks, and building things that think, scale, and evolve.
